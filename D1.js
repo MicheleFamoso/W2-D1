@@ -10,13 +10,14 @@ REGOLE
 /* ESERCIZIO 1
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
+
+/* SCRIVI QUI LA TUA RISPOSTA */
 //STRINGA= Valori di testo, va inserito in apici singoli o apici doppi. I numeri scritti in stringa vengono interpretati come caratteri.
 //NUMERI= Valori numerici , vanno scritti senza apici
 //BOOLEANI= Esprimono valori come vero o falso ( true) (False).
 //UNDEFINED= Il valore di una variabile a cui non e stato assegnato un valore, non si usa intenzionalmente ed è consigliato evitarlo perchè un valore senza valore non ha senso di esistere.
 //NULL= Assenza di valore, volutamente vuota ed esplicitamente nullo. Si puo usare per azzerare un valore che gia esiste.
 //Questi elencati sono chiamati datatype primitivi, perchè sono la base dei datatype
-/* SCRIVI QUI LA TUA RISPOSTA */
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
